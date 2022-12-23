@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+D:\Projekte\UltraZohm\Work_Altium\uz_a_dsub_breakout\Project Outputs for UZ_A_DSUB_Breakout\Rev01\Pick Place\Pick Place for UZ_A_DSUB_Breakout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.12.22
+Time:       09:19
+Revision:   fb64e555034d6c544b28353fd4e0a94749895b7d
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Ref-X(mm)","Center-X(mm)","Ref-Y(mm)","Center-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Rotation","Comment","Layer"
+"X2","dsub50_male_163A18339X","126.0000","128.8400","27.9120","50.0000","126.0000","27.9120","90","163A18339X","TopLayer"
